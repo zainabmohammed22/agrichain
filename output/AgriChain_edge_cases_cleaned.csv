@@ -1,0 +1,4 @@
+txn_id,date,product_id,type,quantity
+TXE01,2026-04-01,P01,consumption,5000.0
+TXE02,2026-04-01,P99,supply,10.0
+TXE03,2026-04-01,P02,supply,5.0

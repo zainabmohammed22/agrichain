@@ -1,0 +1,9 @@
+product_id,product_name,unit,min_stock,shelf_life_days
+P01,Wheat,tons,120,180
+P02,Corn,tons,100,150
+P03,Barley,tons,90,180
+P04,Rice,tons,110,240
+P05,Soybeans,tons,80,150
+P06,Dates,tons,70,210
+P07,Potatoes,tons,60,60
+P08,Tomatoes,tons,50,21
